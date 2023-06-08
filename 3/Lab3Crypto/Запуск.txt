@@ -1,0 +1,2 @@
+1) .\Lab3Crypto\Lab3Crypto\bin\Debug\net6.0\Lab3Crypto.exe
+2) http://localhost:5000/swagger/index.html

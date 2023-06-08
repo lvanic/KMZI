@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Crypto_lab10_2/1.0.0": {
+        "runtime": {
+          "Crypto_lab10_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crypto_lab10_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

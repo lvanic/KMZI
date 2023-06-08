@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sm6LxXVi6QWY/t7sBflXcK04TmHOt+GFtfHuht3VdJG5Agb/auSvwyBfMoAJdAqJ5m1OaT+3UjPurSFg7kzWWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polza\\source\\repos\\Lab3Crypto\\Lab3Crypto\\Lab3Crypto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\polza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\polza\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\polza\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\polza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\polza\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

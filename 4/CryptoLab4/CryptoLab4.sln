@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLab4", "CryptoLab4\CryptoLab4.csproj", "{E1BFA384-AB17-4302-AFF6-B38CC52B2544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BFA384-AB17-4302-AFF6-B38CC52B2544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BFA384-AB17-4302-AFF6-B38CC52B2544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BFA384-AB17-4302-AFF6-B38CC52B2544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BFA384-AB17-4302-AFF6-B38CC52B2544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6D9DF2F-D15A-4EF2-8354-D71B11C62F93}
+	EndGlobalSection
+EndGlobal

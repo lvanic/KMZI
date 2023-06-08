@@ -1,0 +1,15 @@
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\bin\Debug\net6.0\Crypto_lab10_2.exe
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\bin\Debug\net6.0\Crypto_lab10_2.deps.json
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\bin\Debug\net6.0\Crypto_lab10_2.runtimeconfig.json
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\bin\Debug\net6.0\Crypto_lab10_2.dll
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\bin\Debug\net6.0\Crypto_lab10_2.pdb
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.csproj.AssemblyReference.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.AssemblyInfoInputs.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.AssemblyInfo.cs
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.csproj.CoreCompileInputs.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.dll
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\refint\Crypto_lab10_2.dll
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.pdb
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\Crypto_lab10_2.genruntimeconfig.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypto_lab10_2\obj\Debug\net6.0\ref\Crypto_lab10_2.dll

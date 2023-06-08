@@ -1,0 +1,15 @@
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\bin\Debug\net6.0\Crypto_lab9.exe
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\bin\Debug\net6.0\Crypto_lab9.deps.json
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\bin\Debug\net6.0\Crypto_lab9.runtimeconfig.json
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\bin\Debug\net6.0\Crypto_lab9.dll
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\bin\Debug\net6.0\Crypto_lab9.pdb
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.csproj.AssemblyReference.cache
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.AssemblyInfoInputs.cache
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.AssemblyInfo.cs
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.csproj.CoreCompileInputs.cache
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.dll
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\refint\Crypto_lab9.dll
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.pdb
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\Crypto_lab9.genruntimeconfig.cache
+C:\work\RentaTreat\Crypto_lab9\Crypto_lab9\obj\Debug\net6.0\ref\Crypto_lab9.dll

@@ -1,0 +1,15 @@
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.csproj.AssemblyReference.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.AssemblyInfoInputs.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.AssemblyInfo.cs
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.csproj.CoreCompileInputs.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\bin\Debug\net6.0\Crypyo_lab10.exe
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\bin\Debug\net6.0\Crypyo_lab10.deps.json
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\bin\Debug\net6.0\Crypyo_lab10.runtimeconfig.json
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\bin\Debug\net6.0\Crypyo_lab10.dll
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\bin\Debug\net6.0\Crypyo_lab10.pdb
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.dll
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\refint\Crypyo_lab10.dll
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.pdb
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\Crypyo_lab10.genruntimeconfig.cache
+C:\work\IvanicMCU\Crypyo_lab10\Crypyo_lab10\obj\Debug\net6.0\ref\Crypyo_lab10.dll

@@ -1,0 +1,15 @@
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\bin\Debug\net6.0\Cry[to_lab13.exe
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\bin\Debug\net6.0\Cry[to_lab13.deps.json
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\bin\Debug\net6.0\Cry[to_lab13.runtimeconfig.json
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\bin\Debug\net6.0\Cry[to_lab13.dll
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\bin\Debug\net6.0\Cry[to_lab13.pdb
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.csproj.AssemblyReference.cache
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.AssemblyInfoInputs.cache
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.AssemblyInfo.cs
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.csproj.CoreCompileInputs.cache
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.dll
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\refint\Cry[to_lab13.dll
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.pdb
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\Cry[to_lab13.genruntimeconfig.cache
+C:\work\TechnoLogic\Cry[to_lab13\Cry[to_lab13\obj\Debug\net6.0\ref\Cry[to_lab13.dll

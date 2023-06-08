@@ -1,0 +1,15 @@
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\bin\Debug\net6.0\Crypro_lab8.exe
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\bin\Debug\net6.0\Crypro_lab8.deps.json
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\bin\Debug\net6.0\Crypro_lab8.runtimeconfig.json
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\bin\Debug\net6.0\Crypro_lab8.dll
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\bin\Debug\net6.0\Crypro_lab8.pdb
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.csproj.AssemblyReference.cache
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.AssemblyInfoInputs.cache
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.AssemblyInfo.cs
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.csproj.CoreCompileInputs.cache
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.dll
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\refint\Crypro_lab8.dll
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.pdb
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\Crypro_lab8.genruntimeconfig.cache
+C:\Users\polza\source\repos\Crypro_lab8\Crypro_lab8\obj\Debug\net6.0\ref\Crypro_lab8.dll

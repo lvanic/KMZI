@@ -1,0 +1,15 @@
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\bin\Debug\net6.0\Crypto_lab11.exe
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\bin\Debug\net6.0\Crypto_lab11.deps.json
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\bin\Debug\net6.0\Crypto_lab11.runtimeconfig.json
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\bin\Debug\net6.0\Crypto_lab11.dll
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\bin\Debug\net6.0\Crypto_lab11.pdb
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.csproj.AssemblyReference.cache
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.AssemblyInfoInputs.cache
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.AssemblyInfo.cs
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.csproj.CoreCompileInputs.cache
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.dll
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\refint\Crypto_lab11.dll
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.pdb
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\Crypto_lab11.genruntimeconfig.cache
+C:\work\IvanicMCU\Crypto_lab11\Crypto_lab11\obj\Debug\net6.0\ref\Crypto_lab11.dll
